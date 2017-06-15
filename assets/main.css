@@ -84,7 +84,7 @@
 		  border-radius: 5px;
 		  width: 70%;
 		  position: relative;
-		  transition: all 5s ease-in-out;
+		  transition: all .5s ease-in-out;
 		  line-height: 100%;
 		}
 
