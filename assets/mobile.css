@@ -13,12 +13,11 @@ html {
 			font-size:15.5px;
 			text-shadow: 3px 3px 3px gray;
 		}
-		.switch p {
+		h2 {
 			font-family: "courier";
 			word-break: keep-all;
 			color: white;
 			text-decoration: bold; 
-			font-size:12.5px;
 			text-shadow: 3px 3px 3px gray;
 		}
 		h1 {
