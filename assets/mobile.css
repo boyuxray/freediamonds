@@ -13,13 +13,6 @@ html {
 			font-size:15.5px;
 			text-shadow: 3px 3px 3px gray;
 		}
-		h2 {
-			font-family: "courier";
-			word-break: keep-all;
-			color: white;
-			text-decoration: bold; 
-			text-shadow: 3px 3px 3px gray;
-		}
 		h1 {
 			font-family: "courier";
 			word-break: keep-all;
