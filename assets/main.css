@@ -109,6 +109,7 @@
 		.popup .content {
 		  max-height: 30%;
 		  overflow: auto;
+			background: url(raf.png)
 		}
 .btn {
   background: #9c0e0e;
